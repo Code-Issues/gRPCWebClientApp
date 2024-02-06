@@ -1,0 +1,5 @@
+C:\RO2\KuhnSoft.gRPC.APNs\KuhnSoft.gRPC.APNs.StandardLibraryProto\StandardLibraryProto\StandardLibraryProto\obj\Debug\netstandard2.0\StandardLibraryProto.csproj.AssemblyReference.cache
+C:\RO2\KuhnSoft.gRPC.APNs\KuhnSoft.gRPC.APNs.StandardLibraryProto\StandardLibraryProto\StandardLibraryProto\obj\Debug\netstandard2.0\StandardLibraryProto.GeneratedMSBuildEditorConfig.editorconfig
+C:\RO2\KuhnSoft.gRPC.APNs\KuhnSoft.gRPC.APNs.StandardLibraryProto\StandardLibraryProto\StandardLibraryProto\obj\Debug\netstandard2.0\StandardLibraryProto.AssemblyInfoInputs.cache
+C:\RO2\KuhnSoft.gRPC.APNs\KuhnSoft.gRPC.APNs.StandardLibraryProto\StandardLibraryProto\StandardLibraryProto\obj\Debug\netstandard2.0\StandardLibraryProto.AssemblyInfo.cs
+C:\RO2\KuhnSoft.gRPC.APNs\KuhnSoft.gRPC.APNs.StandardLibraryProto\StandardLibraryProto\StandardLibraryProto\obj\Debug\netstandard2.0\StandardLibraryProto.csproj.CoreCompileInputs.cache

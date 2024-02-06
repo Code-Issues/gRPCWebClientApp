@@ -1,0 +1,44 @@
+﻿@using Grpc.Net.Client.Web;
+@using Grpc.Net.Client;
+@using StandardLibraryProto;
+
+@page "/"
+@rendermode InteractiveServer
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+
+<button class="btn btn-primary" @onclick="getGRPC">Test Grpc</button>
+
+@code
+{
+    private void getGRPC()
+    {
+        var webHandler = new GrpcWebHandler(new HttpClientHandler());
+
+        //// This is needed to make sure that it uses 1.1 for .NET Famework
+        webHandler.HttpVersion = new Version(2, 0);
+
+        string serviceUrl = "https://grpcservicev2.azurewebsites.net";
+
+        var channel = GrpcChannel.ForAddress(serviceUrl, new GrpcChannelOptions
+            {
+                HttpHandler = webHandler
+            });
+
+        var client = new StandardLibraryProto.Greeter.GreeterClient(channel);
+
+        var grooveReply = client.GetGrooveData(new GrooveRequest());
+
+        string s = String.Empty;
+
+
+
+
+        //return grooveReply != null ? grooveReply : null;
+    }
+}

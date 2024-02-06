@@ -1,0 +1,10 @@
+C:\RO2\KuhnSoft.gRPC.APNs\KuhnSoft.gRPC.APNs.StandardLibraryProto\StandardLibraryProto\StandardLibraryProto\bin\Debug\netstandard2.1\WorkdayServiceProto.deps.json
+C:\RO2\KuhnSoft.gRPC.APNs\KuhnSoft.gRPC.APNs.StandardLibraryProto\StandardLibraryProto\StandardLibraryProto\bin\Debug\netstandard2.1\WorkdayServiceProto.dll
+C:\RO2\KuhnSoft.gRPC.APNs\KuhnSoft.gRPC.APNs.StandardLibraryProto\StandardLibraryProto\StandardLibraryProto\bin\Debug\netstandard2.1\WorkdayServiceProto.pdb
+C:\RO2\KuhnSoft.gRPC.APNs\KuhnSoft.gRPC.APNs.StandardLibraryProto\StandardLibraryProto\StandardLibraryProto\obj\Debug\netstandard2.1\WorkdayServiceProto.csproj.AssemblyReference.cache
+C:\RO2\KuhnSoft.gRPC.APNs\KuhnSoft.gRPC.APNs.StandardLibraryProto\StandardLibraryProto\StandardLibraryProto\obj\Debug\netstandard2.1\WorkdayServiceProto.GeneratedMSBuildEditorConfig.editorconfig
+C:\RO2\KuhnSoft.gRPC.APNs\KuhnSoft.gRPC.APNs.StandardLibraryProto\StandardLibraryProto\StandardLibraryProto\obj\Debug\netstandard2.1\WorkdayServiceProto.AssemblyInfoInputs.cache
+C:\RO2\KuhnSoft.gRPC.APNs\KuhnSoft.gRPC.APNs.StandardLibraryProto\StandardLibraryProto\StandardLibraryProto\obj\Debug\netstandard2.1\WorkdayServiceProto.AssemblyInfo.cs
+C:\RO2\KuhnSoft.gRPC.APNs\KuhnSoft.gRPC.APNs.StandardLibraryProto\StandardLibraryProto\StandardLibraryProto\obj\Debug\netstandard2.1\WorkdayServiceProto.csproj.CoreCompileInputs.cache
+C:\RO2\KuhnSoft.gRPC.APNs\KuhnSoft.gRPC.APNs.StandardLibraryProto\StandardLibraryProto\StandardLibraryProto\obj\Debug\netstandard2.1\WorkdayServiceProto.dll
+C:\RO2\KuhnSoft.gRPC.APNs\KuhnSoft.gRPC.APNs.StandardLibraryProto\StandardLibraryProto\StandardLibraryProto\obj\Debug\netstandard2.1\WorkdayServiceProto.pdb

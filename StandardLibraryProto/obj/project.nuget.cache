@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "vL0dF+dJpzd7qMH/nqgcAbWOr6I4kgbAJtUqp8PhQo1pUFrPsLpcYMj4i4v+iO6vEi1+QbRyDFyN1HeygTkjKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri_8kmxsef\\OneDrive\\Documents\\gRPC-Razor App\\StandardLibraryProto\\StandardLibraryProto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri_8kmxsef\\.nuget\\packages\\google.protobuf\\3.21.12\\google.protobuf.3.21.12.nupkg.sha512",
+    "C:\\Users\\rodri_8kmxsef\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\rodri_8kmxsef\\.nuget\\packages\\grpc.core.api\\2.46.6\\grpc.core.api.2.46.6.nupkg.sha512",
+    "C:\\Users\\rodri_8kmxsef\\.nuget\\packages\\grpc.tools\\2.51.0\\grpc.tools.2.51.0.nupkg.sha512",
+    "C:\\Users\\rodri_8kmxsef\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rodri_8kmxsef\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\rodri_8kmxsef\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\rodri_8kmxsef\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\rodri_8kmxsef\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\rodri_8kmxsef\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
